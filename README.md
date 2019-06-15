@@ -17,21 +17,22 @@
 
 
 
-**QA:** Tomás Carreras Ugarte
+**Co-owner:** Tomás Carreras Ugarte
 
 	GitHub: tomascarreras1000
 
-**Art:** Enric Durán
+**Co-owner:** Enric Durán
 
 	GitHub:	EnricGDV
 
-**Design and Management:** Núria Lamonja
-
-	GitHub:	 nurialp12
-
-**Code:** Alex López Agudo
+**Co-owner:** Alex López Agudo
 
 	GitHub: AlexLA99
+	
+**Management and co-owner:** Núria Lamonja
+
+	GitHub:	 needlesslord
+
 
 
 ## Content
@@ -67,9 +68,17 @@ Developed by Invicta Studios:
 
 
 
+## Contact
+
+
+You can contact us here: _studiosinvicta@gmail.com_
+
+
+
 ## License
 
 
 All rights reserved to the developers and publishers of the original games we are copying for learning purposes. The aim of these projects and respectively wikis is only educational. The content can only be used for non-commercial purposes.
+
 As for our own projects, please do contact us for further information on how to use them and please do credit us (with a link to our web page).
 
